@@ -1,0 +1,6 @@
+framework module DrawingPDF {
+  umbrella header "DrawingPDF-umbrella.h"
+
+  export *
+  module * { export * }
+}

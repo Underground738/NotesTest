@@ -1,0 +1,16 @@
+PODS:
+  - DrawingPDF (1.0.1)
+
+DEPENDENCIES:
+  - DrawingPDF
+
+SPEC REPOS:
+  https://github.com/jrosen081/PDFDrawingView.git:
+    - DrawingPDF
+
+SPEC CHECKSUMS:
+  DrawingPDF: c243270fc6db6d2e579c08c6f7eaea981c2892cd
+
+PODFILE CHECKSUM: be2bfed94f46e8cbe9f0e21f5eb597a730cd063a
+
+COCOAPODS: 1.5.0
